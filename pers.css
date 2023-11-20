@@ -6,7 +6,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url("https://github.com/SampurnaC/portfolio_website_fcc/blob/master/images/heroImage.jpeg?raw=true");
+    background-image: url("heroImage.jpeg");
     background-size:cover;
     position:relative;
 }
